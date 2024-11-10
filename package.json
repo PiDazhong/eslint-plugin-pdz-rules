@@ -1,7 +1,7 @@
 {
-  "name": "eslint-plugin",
+  "name": "eslint-plugin-pdz-rules",
   "version": "1.0.0",
-  "description": "",
+  "description": "一些自己定义的eslint规则：../的层级限制、import的排序",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
